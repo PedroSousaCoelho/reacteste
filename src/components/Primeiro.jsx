@@ -4,8 +4,8 @@ import React from "react"
 // ARQQUIVO JSX JUNÇAO DE HTML E JS
 export default () => { 
     <>
-        <h1 />
-        <h2 />
+        <h1>Teste</h1>
+        <h2>Teste2</h2>
     </>
 }   
 
